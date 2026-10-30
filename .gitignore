@@ -1,0 +1,5 @@
+# Nunca subir datos reales: se excluyen todos los CSV...
+*.csv
+*.CSV
+# ...salvo el fichero de prueba con datos ficticios
+!usuarios_sinteticos.csv
